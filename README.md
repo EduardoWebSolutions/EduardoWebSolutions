@@ -21,12 +21,12 @@ Here on my GitHub profile, you'll find a diverse array of projects ranging from 
 
 Thank you for stopping by, and I'm excited to connect with fellow developers, tech enthusiasts, and collaborators like you. Let's embark on a coding adventure together! 🚀
 
-### Connect with me
+## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duduzynhuu/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/EduardoWebSlt)
 
-### Languages, Frameworks, Tools
+## Languages, Frameworks, Tools
 
 <p float="left">
 <img style="padding:5px;" align="center" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
@@ -42,6 +42,10 @@ Thank you for stopping by, and I'm excited to connect with fellow developers, te
 <img style="padding:5px;" align="center" alt="NodeJS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
 <!-- and more such images with different URLs in src -->
 </p>
+
+## My Stats
+
+![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoWebSolutions&show_icons=true&theme=cobalt)
 
 <!---
 EduardoWebSolutions/EduardoWebSolutions is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

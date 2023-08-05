@@ -21,7 +21,7 @@ Here on my GitHub profile, you'll find a diverse array of projects ranging from 
 
 Thank you for stopping by, and I'm excited to connect with fellow developers, tech enthusiasts, and collaborators like you. Let's embark on a coding adventure together! 🚀
 
-Connect with me
+## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duduzynhuu/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/EduardoWebSlt)

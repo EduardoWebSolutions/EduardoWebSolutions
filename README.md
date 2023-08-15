@@ -13,7 +13,7 @@ The fast-paced nature of the tech industry has instilled in me a passion for con
 - 💡 Innovation and Problem-Solving:
 As a creative problem solver, I thrive on challenges that demand out-of-the-box thinking. Complex coding puzzles and intricate development hurdles are not obstacles but gateways to innovation.
 
-- 🌐 Tech Enthusiast and Community Contributor:
+- 🌐 Tech Enthusiast:
 Beyond coding, I'm an ardent tech enthusiast who eagerly follows the latest industry breakthroughs and eagerly anticipates what the future holds for web development.
 
 - 🔍 Exploring My GitHub:

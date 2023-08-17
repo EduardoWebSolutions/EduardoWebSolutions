@@ -2,8 +2,6 @@
 
 Hello there! 👋 I'm José Eduardo, a passionate web developer and tech enthusiast with an unwavering curiosity for all things digital. Welcome to my GitHub profile, where I'm thrilled to share my journey in the world of web development and showcase the projects that reflect my dedication to the craft.
 
-<a href="https://www.buymeacoffee.com/EduardoWebSolutions" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
 - 👨‍💻 Web Development Wizardry:
 My journey into the captivating world of web development began several years ago, and since then, I've been on an exhilarating quest to master the latest technologies, languages, and frameworks.
 

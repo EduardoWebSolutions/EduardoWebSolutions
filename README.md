@@ -17,7 +17,7 @@ Beyond coding, I'm an ardent tech enthusiast who eagerly follows the latest indu
 - 🔍 Exploring My GitHub:
 Here on my GitHub profile, you'll find a diverse array of projects ranging from web applications and responsive websites to experiments with new technologies.
 
-Thank you for stopping by, and I'm excited to connect with fellow developers, tech enthusiasts, and collaborators like you. Let's embark on a coding adventure together!
+Thank you for stopping by, and I'm excited to connect with fellow developers, tech enthusiasts, and collaborators like you. Let's embark on a coding adventure together! 🚀
 
 ## Connect with me:
 
